@@ -50,7 +50,7 @@ This app allows users to add, edit, mark as completed, and delete tasks dynamica
 ## ▶️ How to Run
 
 1. Clone the repository:
-git clone 
+git clone https://github.com/saisathwik07/TODO-APP
 
 2. Open `index.html` in your browser.
 
